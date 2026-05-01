@@ -63,31 +63,6 @@ The dataset contains labeled chest X-ray images divided into:
 * Matplotlib
 
 ---
-
-## 🚀 How to Run the Project
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/Breezy706
-```
-
-2. Navigate to the project folder
-
-```bash
-cd your-repo-name
-```
-
-3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the Python script or Jupyter Notebook
-
----
-
 ## 📈 Model Performance
 
 ### ✅ Custom CNN
