@@ -33,7 +33,7 @@ The dataset contains labeled chest X-ray images divided into:
 * Test set
 
 📎 **Dataset Link:**
-👉 https://drive.google.com/drive/folders/1YDtPLuGHVndFYE4tnx04Z-N_tSjXdhec?usp=drive_link
+👉 https://drive.google.com/drive/folders/1d0CElm_eNFVXVhDvdpnGpgSsabivg90H?usp=drive_link
 
 ---
 
@@ -156,7 +156,7 @@ The model can:
 👉 https://github.com/Breezy706
 
 📎 **Dataset:**
-👉 https://drive.google.com/drive/folders/1YDtPLuGHVndFYE4tnx04Z-N_tSjXdhec?usp=drive_link
+👉 https://drive.google.com/drive/folders/1d0CElm_eNFVXVhDvdpnGpgSsabivg90H?usp=drive_link
 
 ---
 
